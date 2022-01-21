@@ -1062,11 +1062,6 @@ body .markdown-body
 .codehilite .il{color:#009999}
 .codehilite .gc{color:#999;background-color:#EAF2F5}
 </style><title>About</title></head><body><article class="markdown-body"><p><strong>2017</strong></p>
-<ul>
-  <li>
-    <p>Parisa Amiri Eliasi, Sundeep Rangan, and Theodore Rappaport, <em>Low-rank spatial channel estimation for millimeter wave cellular systems</em>, IEEE Transactions on Wireless Communications 16 (5), 2748-2759</p>
-  </li>
-</ul>
 
 <p><strong>About</strong></p>
 
