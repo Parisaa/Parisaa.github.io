@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who she is?
+title: Who is she?
 permalink: /about/
 ---
 
