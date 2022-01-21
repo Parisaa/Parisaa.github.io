@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ileana Buhan
-email: ileana.buhan at ru.nl
+title: Parisa Amiri Eliasi
+email: parisa.amirieliasi at ru.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Illustrations by Ileana Buhan are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ileanabuhan
+twitter_username: parisaeliasi
 # github_username:  ileanabuhan
-url: "https://ileanabuhan.github.io/"
+url: "https://parisaa.github.io/"
 # Build settings
 theme: minima
 plugins:
