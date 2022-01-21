@@ -5,12 +5,15 @@ permalink: /Publications/
 ---
 
 **2017**
-- Parisa Amiri Eliasi, Sundeep Rangan, and Theodore Rappaport, Low-rank spatial channel estimation for millimeter wave cellular systems, IEEE Transactions on Wireless Communications 16
+- Parisa A. Eliasi, Sundeep Rangan, Theodore S. Rappaport, “Low-Rank Spatial Channel Estimation
+for Millimeter Wave Cellular Systems,” in IEEE Transactions on Wireless Communications, 2017.[TWC 2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7891613);
 
 **2015**
-- Parisa Amiri Eliasi andSundeep Rangan, Stochastic dynamic channel models for millimeter cellular systems, 2015 IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP).
+- Parisa A. Eliasi, Sundeep Rangan,“Stochastic Dynamic Channel Models for Millimeter Cellular Systems,” in IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing(CAMSAP), 2015.- [CAMSAP 2015](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7383773)
 
-- C Nicolas Barati, S Amir Hosseini, Marco Mezzavilla, Parisa Amiri Eliasi, Sundeep Rangan, Thanasis Korakis, Shivendra S Panwar, and Michele Zorzi, Directional initial access for millimeter wave cellular systems, 2015 49th Asilomar Conference on Signals, Systems and Computers.
+- . Nicolas Barati, S. Amir Hosseini, Marco Mezzavilla, Parisa A. Eliasi, Sundeep Rangan, MicheleZorzi, Thanasis Korakis, Shivendra S. Panwar “Directional Initial Access for Millimeter Wave Cellular Systems”, in 49th Asilomar Conference on Signals, Systems and Computers, 2015.-[Asilomar 2015](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7421136)
 
 **2014**
-- Parisa Amiri Eliasi, Li Feng, Ricardo Otazo, and Sundeep Rangan, Fast magnetic resonance parametric imaging via structured low-rank matrix reconstruction, 2014 48th Asilomar Conference on Signals, Systems and Computers.
+- Parisa A. Eliasi, Li Feng, Ricardo Otazo, Sundeep Rangan, “Fast Magnetic Resonance Parametric
+Imaging via Model-Based Low-Rank Matrix Factorization,” in 48th Asilomar Conference on Signals,
+Systems and Computers, 2014.[Asilomar 2014](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7094477)
