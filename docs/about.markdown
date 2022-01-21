@@ -10,5 +10,4 @@ I am currently a PhD student at the Digital Security group of the Radboud Univer
 
 Her main research interest is applied cryptography, embedded systems security, wireless communication, machine learning and signal processing.  
 
- ![short cv]({{site.url}}/assets/img/cariera.png){:class="img-responsive"}
 
