@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who is she?
-permalink: /about/
+permalink: 
 ---
 
 Parisa Amiri Eliasi received the B.Sc. in Computer Engineering at the Sharif University of Technology, Iran and the Ph.D. in Electrical Engineering at the New York University, USA. Thereafter, she started as a lecturer at the University of Guilan in Iran. 
