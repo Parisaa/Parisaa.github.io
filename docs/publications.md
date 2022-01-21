@@ -6,7 +6,7 @@ permalink: /Publications/
 
 **2017**
 - Parisa A. Eliasi, Sundeep Rangan, Theodore S. Rappaport, “Low-Rank Spatial Channel Estimation
-for Millimeter Wave Cellular Systems,” in IEEE Transactions on Wireless Communications, 2017. [TWC 2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7891613);
+for Millimeter Wave Cellular Systems,” in IEEE Transactions on Wireless Communications, 2017. [TWC 2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7891613)
 
 **2015**
 - Parisa A. Eliasi, Sundeep Rangan,“Stochastic Dynamic Channel Models for Millimeter Cellular Systems,” in IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing(CAMSAP), 2015. [CAMSAP 2015](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7383773)
