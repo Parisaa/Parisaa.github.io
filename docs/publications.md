@@ -5,8 +5,6 @@ permalink: /Publications/
 ---
 
 **2017**
-
-
 - Parisa Amiri Eliasi, Sundeep Rangan, and Theodore Rappaport, Low-rank spatial channel estimation for millimeter wave cellular systems, IEEE Transactions on Wireless Communications 16
 
 **2015**
