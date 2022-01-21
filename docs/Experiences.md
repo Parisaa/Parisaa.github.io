@@ -8,7 +8,7 @@ permalink: /Experiences/
 - Informatics Services Corporation, Tehran, Iran (Feb 2020 - May 2021 )
 
 **Tutor**
-- Introduction to Cryptography (2021)
+- Introduction to Cryptography, Nijmegen, Netherlands (2021)
 
 **Teaching Assistant**
 - Radboud University, Physical Attacks on Secure Systems (2021)
@@ -28,10 +28,10 @@ tions on Signal Processing, IEEE Journal on Selected Topics in Signal Processing
 - Invited Speaker, “5G and Machine Learning: Low-Rank Spatial Channel Estimation for Millimeter
 Wave Cellular Systems”, AT&T, Big Data Group, June 2017.
 
-- Invited Speaker, “Understanding Channel Dynamics in Millimeter Wave Cellular System”, University of Guilan, March 2019
+- Invited Speaker, “Understanding Channel Dynamics in Millimeter Wave Cellular System”, University of Guilan, March 2019.
 
 **Researcher/Intern**
-- Hutchin Hill Capital (Summer 2017) 
+- Hutchin Hill Capital, New York, US (Summer 2017) 
 
 
 
