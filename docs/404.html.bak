@@ -29,9 +29,6 @@ layout: default
   display: table;
 }
 
-p{
-    word-wrap: break-word;
-}
 </style>
 
 <div class="row">
