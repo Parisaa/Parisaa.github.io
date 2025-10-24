@@ -5,15 +5,18 @@ permalink: /Experiences/
 ---
 
 **Security Professional**
-- Informatics Services Corporation, Tehran, Iran (Feb 2020 - May 2021 )
+- Informatics Services Corporation, Tehran, Iran (2019-2021)
+
+**Visiting Faculty** 
+- University of Guilan, Rasht, Iran (2018-2019)
 
 **Tutor**
-- Introduction to Cryptography, Nijmegen, Netherlands (2021)
+- Introduction to Cryptography, Nijmegen, the Netherlands (2021)
 
 **Teaching Assistant**
-- Radboud University, Physical Attacks on Secure Systems (2021)
+- Radboud University, Physical Attacks on Secure Systems (2021,2022,2023)
 - New York University, Information Theory (2016)
-- Sharif University of Technology, Signal and Systems (2009-2011), Very-Large-Scale Integration (VLSI) Design (2010), Microprocessors (2010)
+- Sharif University of Technology, Signal and Systems (2009,2010,2011), Very-Large-Scale Integration (VLSI) Design (2010), Microprocessors (2010)
 
 **Technical Reviewer**
 - Network and Distributed System Security Symposium (NDSS), ACM ASIA Conference on Computer
