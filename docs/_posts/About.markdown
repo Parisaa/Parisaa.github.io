@@ -2,9 +2,10 @@
 layout: page
 title:  About
 ---
-hello hello Parisa Amiri Eliasi received the B.Sc. in Computer Engineering at the Sharif University of Technology, Iran and the Ph.D. in Electrical Engineering at the New York University, USA. Thereafter, she started as a lecturer at the University of Guilan in Iran. 
-I am currently a PhD student at the Digital Security group of the Radboud University, working in the area of physical attacks and machine learning under the supervision of Professors Lejla Batina, and Martha Larson. Before that, she worked as an information security specialist at the Informatics Service Corporation, the market leading provider of banking systems to all commercial banks in Iran.
-Her main research interest is applied cryptography, embedded systems security, wireless communication, machine learning and signal processing.
+Parisa Amiri Eliasi received her B.Sc. in Computer Engineering from the Sharif University of Technology, Iran, and her Ph.D. in Electrical Engineering from New York University, USA, under the supervision of Professor Sundeep Rangan. Her doctoral dissertation, titled “Structured Estimation for Wireless Communications and MR Imaging,” focused on developing signal processing methods for communication and imaging systems.
 
+After completing her Ph.D., she joined the University of Guilan, Iran, as a lecturer. She later worked as an information security specialist at the Informatics Services Corporation, the leading provider of banking and financial IT infrastructure in Iran.
+
+She is currently pursuing a second Ph.D. in the Digital Security group at Radboud University in the Netherlands. Her research focuses on the design of symmetric-key cryptographic algorithms, their hardware and software implementations, and power side-channel analysis.
 
 
