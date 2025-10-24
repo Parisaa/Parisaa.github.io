@@ -12,7 +12,7 @@ permalink: /Publications/
 - Parisa Amiri Eliasi, Silvia Mella, Lejla Batina, “Comparing Gaston with Ascon-p: Side-Channel Analysis and Hardware Evaluation,” in International Conference on Cryptology and Network Security, 2025. [CANS 2025](To appear)
 
 **2024**
-- Omid Bazangani, Parisa Amiri Eliasi, Stjepan Picek, Lejla Batina, “Can Machine Learn Pipeline Leakage?,” in Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024. [DATE 2024] (https://ieeexplore.ieee.org/abstract/document/10546629/)
+- Omid Bazangani, Parisa Amiri Eliasi, Stjepan Picek, Lejla Batina, “Can Machine Learn Pipeline Leakage?,” in Design, Automation & Test in Europe Conference & Exhibition (DATE), 2024. [DATE 2024](https://ieeexplore.ieee.org/abstract/document/10546629/)
 
 - Parisa Amiri Eliasi, Silvia Mella, Léo Weissbart, Lejla Batina, Stjepan Picek, “Xoodyak Under SCA Siege,” in International Symposium on Design & Diagnostics of Electronic Circuits & Systems (DDECS) 2024. [DDECS 2024](https://ieeexplore.ieee.org/abstract/document/10508930/)
 
