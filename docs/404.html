@@ -4,44 +4,43 @@ layout: default
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 7px auto;
-    max-width: 600px;
-    text-align: left;
+  .row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 40px auto;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
+
+  .column-left {
+    flex: 0 0 350px; /* fixed width for image column */
+    margin-right: 40px; /* space between image and text */
   }
-  
-  .column {
-  float: left;
-  width: 49%;
-  padding: 1px;
-}
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+  .column-right {
+    flex: 1; /* remaining width for text */
+    text-align: justify; /* make all lines the same length */
+    line-height: 1.45; /* improve readability */
+    font-size: 16px;
+  }
 
-p{
-    word-wrap: break-word;
-}
+  img {
+    width: 100%;
+    border-radius: 6px; /* optional, looks nicer */
+  }
 </style>
 
 <div class="row">
-  <div class="column">
-    <img src="https://github.com/Parisaa/Parisaa.github.io/blob/main/docs/images/meborder.jpg?raw=true" alt="me" style="width:100%">
+  <div class="column-left">
+    <img src="https://github.com/Parisaa/Parisaa.github.io/blob/main/docs/images/meborder.jpg?raw=true" alt="me">
   </div>
-  <div class="column">
-    <p>Parisa Amiri Eliasi received her B.Sc. in Computer Engineering from the Sharif University of Technology, Iran, and her Ph.D. in Electrical Engineering from New York University, USA, under the supervision of Professor Sundeep Rangan. Her doctoral dissertation, titled “Structured Estimation for Wireless Communications and MR Imaging,” focused on developing signal processing methods for communication and imaging systems.
-After completing her Ph.D., she joined the University of Guilan, Iran, as a lecturer. She later worked as an information security specialist at the Informatics Services Corporation, the leading provider of banking and financial IT infrastructure in Iran.
-She is currently pursuing a second Ph.D. in the Digital Security group at Radboud University in the Netherlands. Her research focuses on the design of symmetric-key cryptographic algorithms, their hardware and software implementations, and power side-channel analysis.</p>
+
+  <div class="column-right">
+    <p>Parisa Amiri Eliasi received her B.Sc. in Computer Engineering from the Sharif University of Technology, Iran, and her Ph.D. in Electrical Engineering from New York University, USA, under the supervision of Professor Sundeep Rangan. Her doctoral dissertation, titled “Structured Estimation for Wireless Communications and MR Imaging,” focused on developing signal processing methods for communication and imaging systems.</p>
+
+    <p>After completing her Ph.D., she joined the University of Guilan, Iran, as a lecturer. She later worked as an information security specialist at the Informatics Services Corporation, the leading provider of banking and financial IT infrastructure in Iran.</p>
+
+    <p>She is currently pursuing a second Ph.D. in the Digital Security group at Radboud University in the Netherlands. Her research focuses on the design of symmetric-key cryptographic algorithms, their hardware and software implementations, and power side-channel analysis.</p>
   </div>
 </div>
 
